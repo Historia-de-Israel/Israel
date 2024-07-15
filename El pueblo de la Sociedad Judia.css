@@ -24,9 +24,10 @@ background: linear-gradient(90deg, rgba(74,79,98,1) 0%, rgba(55,50,3,0.277748599
 .NAV li a:hover{
     background-color: #03333a;
 }
-
-body{
+p{
     text-align:justify;
+}
+body{
     background: rgb(188,190,172);
     background: linear-gradient(90deg, rgba(188,190,172,0.4066001400560224) 0%, rgba(9,121,14,1) 53%, rgba(0,212,255,1) 87%);
     
