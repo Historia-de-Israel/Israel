@@ -1,0 +1,37 @@
+*{
+    padding: 0%;
+    margin: 5px;
+}
+#HEADER{
+      margin-left: 180px;
+      margin-right: 180px;
+      width: auto;
+        
+}
+ul, ol{
+    list-style: none;
+}
+.NAV li a{
+    background: rgb(74,79,98);
+background: linear-gradient(90deg, rgba(74,79,98,1) 0%, rgba(55,50,3,0.2777485994397759) 53%, rgba(39,255,0,1) 87%);
+    text-decoration: none;
+    padding: 10px 30px;
+    display: block;
+}
+.NAV > li{
+    float: left;
+}
+.NAV li a:hover{
+    background-color: #03333a;
+}
+
+body{
+    background: rgb(188,190,172);
+    background: linear-gradient(90deg, rgba(188,190,172,0.4066001400560224) 0%, rgba(9,121,14,1) 53%, rgba(0,212,255,1) 87%);
+    
+}
+h1{
+    border-radius:20px;
+    border-style:solid;
+    background:white;
+}
